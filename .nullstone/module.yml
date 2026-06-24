@@ -1,0 +1,19 @@
+org_name: nullstone
+name: gcp-cloudaicompanion-access
+friendly_name: Cloud AI Companion Access
+description: Grants a Nullstone app access to Cloud AI companion
+category: capability
+subcategory: datastores
+provider_types:
+    - gcp
+platform: cloudaicompanion
+subplatform: ""
+type: ""
+appCategories:
+    - container
+    - serverless
+    - server
+is_public: true
+tool_name: opentofu
+include: []
+source_url: https://github.com/nullstone-modules/gcp-cloudaicompanion-access
